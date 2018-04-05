@@ -1,7 +1,7 @@
 # PythonStudy
 python 爬虫学习
 
-###主要技术
+### 主要技术
 
 urllib 解析库
 
