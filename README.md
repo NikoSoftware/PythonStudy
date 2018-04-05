@@ -11,4 +11,5 @@ python 文件操作
 
 ***部分界面图展示***
 
- ![](https://github.com/NikoSoftware/PythonStudy/img/img1.png)
+ ![](https://github.com/NikoSoftware/PythonStudy/blob/master/img/img1.png?raw=true)
+ 
